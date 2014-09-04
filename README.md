@@ -12,7 +12,6 @@ Currently useless, our MVP needs the following:
 
 ### User Stories
 
-
     In order to get a coffee
       As a consumer of coffee
       Given I have identified myself using my email address
