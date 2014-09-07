@@ -42,5 +42,6 @@ group :test do
   gem 'fuubar'
   gem 'simplecov'
   gem 'ruby-prof'
+  gem 'shoulda-matchers', require: false
 end
 
